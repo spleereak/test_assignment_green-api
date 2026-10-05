@@ -5,7 +5,6 @@
 В кабинете нет тарифа MAX: создайте бесплатный инстанс WhatsApp Developer или Telegram Developer. Нужен Node.js 20+.
 
 ```bash
-nvm use
 npm install
 npm run dev
 ```
