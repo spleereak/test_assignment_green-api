@@ -1,5 +1,5 @@
 import { useEffect, useRef, type FormEvent, type KeyboardEvent } from "react";
-import { IconButton, Textarea, Typography } from "@maxhub/max-ui";
+import { Button, IconButton, Textarea, Typography } from "@maxhub/max-ui";
 import type { ChatMessage, MessageStatus } from "@/api/types";
 import { texts } from "@/app/texts";
 import { SendIcon } from "@/components/Icons";
